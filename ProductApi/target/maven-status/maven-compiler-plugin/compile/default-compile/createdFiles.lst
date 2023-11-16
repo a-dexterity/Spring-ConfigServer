@@ -1,0 +1,14 @@
+com\lucescoRetail\ProductApi\model\ErrorResponse.class
+com\lucescoRetail\ProductApi\entity\Product.class
+com\lucescoRetail\ProductApi\exceptions\ProductServiceCustomException.class
+com\lucescoRetail\ProductApi\service\ProductServiceImpl.class
+com\lucescoRetail\ProductApi\ProductApiApplication.class
+com\lucescoRetail\ProductApi\model\ProductResponse.class
+com\lucescoRetail\ProductApi\exceptions\RestResponseEntityExceptionHandler.class
+com\lucescoRetail\ProductApi\repository\ProductRepository.class
+com\lucescoRetail\ProductApi\model\ErrorResponse$ErrorResponseBuilder.class
+com\lucescoRetail\ProductApi\service\ProductService.class
+com\lucescoRetail\ProductApi\entity\Product$ProductBuilder.class
+com\lucescoRetail\ProductApi\controller\ProductController.class
+com\lucescoRetail\ProductApi\model\ProductResponse$ProductResponseBuilder.class
+com\lucescoRetail\ProductApi\model\ProductRequest.class
